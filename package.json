@@ -23,7 +23,6 @@
     "socket.io": "^2.3.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4",
-    "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.1",
     "y-quill": "0.1.3",
